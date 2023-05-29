@@ -7,6 +7,9 @@ Projetos de Jogos utilizando a linguagem de Programação Python.
 
 ![game](https://github.com/fernandamelreis/python_games/assets/114718084/c3d5791e-cfd4-4cb1-9331-c629263d469c)
 
+# ✂ Adivinhação com o robô:
+- `Pedra-Papel-Tesoura`: Game de adivinhação entre o jogador e o computador a biblioteca Emojize do Python, utilizando a estrutura while e as verificações com if, elif e else.
+
 
 ## 📖 Referências
 - [Python](https://www.python.org/)
