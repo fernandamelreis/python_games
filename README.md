@@ -1,5 +1,5 @@
-# 🕹 Games em Python 🐍
-Projetos de Jogos utilizando a linguagem de Programação Python.
+# 🐍 Games em Python 🕹
+Projetos de jogos utilizando a linguagem de Programação Python.
 
 # 🤖 Adivinhação com o robô:
 
